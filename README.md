@@ -56,11 +56,3 @@ Ensure the style.css file is linked in index.html.
 Place the laptop image inside the imgs/ folder as laptop.webp.
 
 Open index.html in any modern browser.
-
-🌟 Future Improvements
-
-Make the card fully responsive for mobile devices.
-
-Add JavaScript functionality for cart interaction.
-
-Include multiple product cards in a grid layout.
